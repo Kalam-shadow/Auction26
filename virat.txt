@@ -1,1 +1,2 @@
 starting Price = 10 L
+from Gajendiran : virat = 55 L

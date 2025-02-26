@@ -1,1 +1,2 @@
 starting Price = 10 L
+Team PlayGod's Cubicle, price = 5c
